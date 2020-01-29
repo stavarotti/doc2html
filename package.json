@@ -1,0 +1,29 @@
+{
+  "name": "doc2html",
+  "version": "0.0.1",
+  "description": "A simple that parses a Microsoft Word (docx) file into html files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stavarotti/doc2html.git"
+  },
+  "author": "Steve Chikwaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stavarotti/doc2html/issues"
+  },
+  "homepage": "https://github.com/stavarotti/doc2html#readme",
+  "devDependencies": {
+    "inquirer": "^7.0.4",
+    "jsdom": "^16.0.1",
+    "jszip": "^3.2.2",
+    "mammoth": "^1.4.9",
+    "minimist": "^1.2.0"
+  },
+  "dependencies": {
+    "pretty": "^2.0.0"
+  }
+}
