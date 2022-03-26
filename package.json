@@ -21,7 +21,7 @@
     "jsdom": "^16.0.1",
     "jszip": "^3.2.2",
     "mammoth": "^1.4.9",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.6"
   },
   "dependencies": {
     "pretty": "^2.0.0"
