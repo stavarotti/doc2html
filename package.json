@@ -18,7 +18,7 @@
   "homepage": "https://github.com/stavarotti/doc2html#readme",
   "devDependencies": {
     "inquirer": "^7.0.4",
-    "jsdom": "^16.0.1",
+    "jsdom": "^16.5.0",
     "jszip": "^3.2.2",
     "mammoth": "^1.4.9",
     "minimist": "^1.2.0"
