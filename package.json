@@ -19,7 +19,7 @@
   "devDependencies": {
     "inquirer": "^7.0.4",
     "jsdom": "^16.0.1",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "mammoth": "^1.4.9",
     "minimist": "^1.2.0"
   },
